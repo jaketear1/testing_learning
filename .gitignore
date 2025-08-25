@@ -1,5 +1,6 @@
-Data/
-EMAData/
-fMRI_Data/
+/data/
+/Data/
+/EMAData/
+/fMRI_Data/
 App-SigVisualizer-master/
 .venv/

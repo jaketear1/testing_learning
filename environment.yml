@@ -1,0 +1,22 @@
+name: testing_learning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - mne
+  - matplotlib
+  - nilearn
+  - nibabel
+  - jupyterlab
+  - pandas
+  - scipy
+  - "numpy<2"
+  - pip
+  - pip:
+      - pybids
+      - fooof
+      - mne_connectivity
+      - neurodsp
+      - pylsl
+
